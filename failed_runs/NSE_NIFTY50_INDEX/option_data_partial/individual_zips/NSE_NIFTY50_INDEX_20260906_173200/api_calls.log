@@ -1,0 +1,26 @@
+[2026-09-06 17:32:00] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=5S, from=2026-05-29, to=2026-06-28 | RESULT: [200] no_data
+[2026-09-06 17:32:01] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=5S, from=2026-06-29, to=2026-07-29 | RESULT: [200] no_data
+[2026-09-06 17:32:03] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=5S, from=2026-07-30, to=2026-08-29 | RESULT: [200] ok
+[2026-09-06 17:32:04] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=5S, from=2026-08-30, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:06] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=1, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:07] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=5, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:07] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=60, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:07] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY50-INDEX, res=D, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:09] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=5S, from=2026-05-29, to=2026-06-28 | RESULT: [200] ok
+[2026-09-06 17:32:12] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=5S, from=2026-06-29, to=2026-07-29 | RESULT: [200] ok
+[2026-09-06 17:32:15] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=5S, from=2026-07-30, to=2026-08-29 | RESULT: [200] ok
+[2026-09-06 17:32:16] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=5S, from=2026-08-30, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:20] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=1, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:21] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=5, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:21] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=60, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:22] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY26SEPFUT, res=D, from=2026-05-29, to=2026-09-06 | RESULT: [200] ok
+[2026-09-06 17:32:22] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900CE, res=5S, from=2026-05-29, to=2026-06-28 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:22] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900PE, res=1, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:22] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900CE, res=5, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:22] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900CE, res=1, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:22] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900PE, res=5, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:22] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900CE, res=60, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:23] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900PE, res=5S, from=2026-05-29, to=2026-06-28 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:23] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900CE, res=D, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:23] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900PE, res=60, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
+[2026-09-06 17:32:23] ENDPOINT: /history | PARAMS: symbol=NSE:NIFTY2691123900PE, res=D, from=2026-05-29, to=2026-09-06 | RESULT: [-300] Invalid symbol provided
